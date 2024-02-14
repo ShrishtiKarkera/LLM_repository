@@ -6,3 +6,5 @@ You can reuse the code by:
 2. You can add your own documents or pdfs in the data folder and make sure the file path is correct
 3. You can also use your own vector store, I've used the database by Meta - https://www.pinecone.io/learn/series/faiss/faiss-tutorial/
 4. Run the notebook as is in Google Colab for free
+
+![image](https://github.com/ShrishtiKarkera/LLM_repository/assets/57498417/62f2da71-10d7-449a-82ee-07c14b5db430)
